@@ -11,13 +11,13 @@ services:
       - key: PREFIX
         value: "!"
       - key: BOT_NAME
-        value: "ℳℒ𝒦⛷️"
+        value: "MEGALODON-MD"
       - key: MODE
         value: "public"
       - key: OWNER_NUMBER
         value: "24102150515"
       - key: OWNER_NAME
-        value: "ℐ𝓈𝓇𝒶𝑒̈𝓁✰"
+        value: "MEGALODON-MD"
       - key: DEV
         value: "24102150515"
       - key: AUTO_STATUS_REPLY
@@ -47,7 +47,7 @@ services:
       - key: ANTI_CALL
         value: "false"
       - key: REJECT_MSG
-        value: "*📞 ᴄαℓℓ ɴσт αℓℓσωє∂ ιɴ тнιѕ ɴᴜмвєʀ уσυ ∂σɴт нανє ᴘєʀмιѕѕιοɴ 📵*"
+        value: "Call not allowed on this number"
       - key: ANTI_BAD
         value: "false"
       - key: ANTILINK_KICK
